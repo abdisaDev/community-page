@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "image": {
+      "path": "https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_640.png",
+      "alt": "landscape"
+    },
+    "text": "Nature is so beautiful. Nature is so beautiful. Nature is so beautiful. Nature is so beautiful.",
+    "actions": {
+      "like": 987,
+      "view": 2025,
+      "share": 78
+    },
+    "time": "2 hour ago",
+    "author": {
+      "name": "Abdisa Dev",
+      "image": {
+        "path": "https://avatars.githubusercontent.com/u/139908919?v=4",
+        "alt": "abdisa"
+      }
+    },
+    "comments": [
+      {
+        "id": 0,
+        "text": "Nice Image",
+        "time": "2 hour ago",
+        "author": {
+          "name": "Bekele Mola",
+          "image": {
+            "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUzj09zWcmrTIwwu6tuxEjca-OSP5-DWHgg&s",
+            "alt": "random person"
+          }
+        },
+        "replies": [
+          {
+            "text": "Yeah.",
+            "time": "1 hour ago",
+            "author": {
+              "name": "Abdisa Dev",
+              "image": {
+                "path": "https://avatars.githubusercontent.com/u/139908919?v=4",
+                "alt": "abdisa"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "image": {
+      "path": "https://cdn-fkmoj.nitrocdn.com/xvpOGZRTxJUhXKufpOYIruQcRqtvAAQX/assets/images/optimized/rev-4e1f421/media.briantracy.com/blog/wp-content/uploads/2024/01/23111610/Quote-11.png",
+      "alt": "quote"
+    },
+    "text": "Perfection is not attainable, but is we chase perfection we can catch excellence. -- vince lombardi",
+    "actions": {
+      "like": 387,
+      "view": 2017,
+      "share": 68
+    },
+    "time": "2 hour ago",
+    "author": {
+      "name": "Yared Kebede",
+      "image": {
+        "path": "https://randomuser.me/api/portraits/men/73.jpg",
+        "alt": "random person"
+      }
+    },
+    "comments": [
+      {
+        "id": 0,
+        "text": "Well Said",
+        "time": "2 hour ago",
+        "author": {
+          "name": "Abdisa Dev",
+          "image": {
+            "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUzj09zWcmrTIwwu6tuxEjca-OSP5-DWHgg&s",
+            "alt": "random person"
+          }
+        },
+        "replies": [
+          {
+            "text": "Yeah.",
+            "time": "1 hour ago",
+            "author": {
+              "name": "Yared Kebede",
+              "image": {
+                "path": "https://randomuser.me/api/portraits/men/73.jpg",
+                "alt": "abdisa"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
