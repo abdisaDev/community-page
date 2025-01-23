@@ -6,14 +6,11 @@ import {
   DialogContent,
   DialogTitle,
 } from "@mui/material";
-import { useState } from "react";
 import ImageUploader from "react-images-upload";
 import useStore from "../../hooks/useStore";
 import CommentTextArea from "../comment/text-area";
 
 function PostContent() {
-  const [pictures, setPictures] = useState([]);
-
   const { displayPost, setDisplayPost } = useStore();
 
   return (
@@ -31,9 +28,6 @@ function PostContent() {
             <ImageUploader
               withIcon={true}
               buttonText="Choose images"
-              onChange={(_, pictureDataURLs) => {
-                setPictures(pictureDataURLs);
-              }}
               imgExtension={[".jpg", ".gif", ".png"]}
               maxFileSize={5242880}
             />
