@@ -94,5 +94,78 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2,
+    "image": {
+      "path": "https://cdn-fkmoj.nitrocdn.com/xvpOGZRTxJUhXKufpOYIruQcRqtvAAQX/assets/images/optimized/rev-4e1f421/media.briantracy.com/blog/wp-content/uploads/2024/01/23111610/Quote-11.png",
+      "alt": "quote"
+    },
+    "text": "testing the project",
+    "actions": {
+      "like": 38007,
+      "view": 2017,
+      "share": 68
+    },
+    "time": "2 hour ago",
+    "author": {
+      "name": "Yared Kebede",
+      "image": {
+        "path": "https://randomuser.me/api/portraits/men/73.jpg",
+        "alt": "random person"
+      }
+    },
+    "comments": [
+      {
+        "id": 0,
+        "text": "Well Said",
+        "time": "2 hour ago",
+        "author": {
+          "name": "Abdisa Dev",
+          "image": {
+            "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUzj09zWcmrTIwwu6tuxEjca-OSP5-DWHgg&s",
+            "alt": "random person"
+          }
+        },
+        "replies": [
+          {
+            "text": "Yeah.",
+            "time": "1 hour ago",
+            "author": {
+              "name": "Yared Kebede",
+              "image": {
+                "path": "https://randomuser.me/api/portraits/men/73.jpg",
+                "alt": "abdisa"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "text": "Well Said",
+        "time": "2 hour ago",
+        "author": {
+          "name": "Abdisa Dev",
+          "image": {
+            "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpUzj09zWcmrTIwwu6tuxEjca-OSP5-DWHgg&s",
+            "alt": "random person"
+          }
+        },
+        "replies": [
+          {
+            "text": "Yeah.",
+            "time": "1 hour ago",
+            "author": {
+              "name": "Yared Kebede",
+              "image": {
+                "path": "https://randomuser.me/api/portraits/men/73.jpg",
+                "alt": "abdisa"
+              }
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
